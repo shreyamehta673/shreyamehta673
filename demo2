@@ -3,8 +3,8 @@
 	margin: 0;
 }
 body{
-	font-size: 20px;
-	background: #161515 !important;
+	font-size: 30px;
+	background: 'yellow' !important;
 }
 /*.col-created{
 	height: 370px !important;
@@ -12,8 +12,8 @@ body{
 	//position: absolute;
 }*/
 .size{
-	width: 50px !important;
-	height: 50px !important;
+	width: 75px !important;
+	height: 75px !important;
 	margin-right: 0 !important;
 	text-transform: uppercase !important;
 	/*text-decoration: bold;*/
@@ -24,11 +24,11 @@ body{
 .float-right{
 	align-content: right;
 	text-align: right;
-	font-size: 20px;
+	font-size: 30px;
 }
 .btn{
-	font-size: 38px;
-	margin-top: -12px;
+	font-size: 40px;
+	margin-top: -14px;
 }
 .center-align{
 	text-align: center !important;
@@ -41,30 +41,30 @@ body{
 	font-family: 'Roboto Slab', serif !important;
 	font-weight: 700 !important;
 	text-transform: uppercase;
-	padding-bottom: 10px;
+	padding-bottom: 12px;
 	padding-bottom: 15px;
     border-bottom-style: solid;
-    border-bottom-width: 3.1px;
+    border-bottom-width: 3.5px;
 }
 .row1{
-	margin-left: 20px;
+	margin-left: 30px;
 }
 .container{
-	padding-bottom: -10px;
+	padding-bottom: -12px;
 }
 .keyboard_wrapper {
-    width: 700px;
-    padding: 25px;
-    border-radius: 15px;
+    width: 500px;
+    padding: 35px;
+    border-radius: 25px;
 	margin: auto;
-	padding: 10px;
+	padding: 20px;
 	position: sticky;
 }
 .keyboard_wrapper .display {
     position: relative;
     font-size: 18px;
     font-family: inherit;
-    height: 200px;
+    height: 240px;
     border-radius: 15px;
     height: 200px;
     padding: 20px;
